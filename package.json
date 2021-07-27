@@ -1,0 +1,16 @@
+{
+  "name": "@filipkrw/tailwind-components-library-purge",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "keywords": [
+    "react",
+    "tailwind",
+    "purge"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.14.8"
+  }
+}
